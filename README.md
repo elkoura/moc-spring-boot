@@ -1,2 +1,2 @@
 # moc-spring-boot
-Sample application to test spring functionnalities 
+Sample application to test spring functionality
